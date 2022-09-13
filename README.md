@@ -1,5 +1,6 @@
 ### Hello there 👋
 [![Kurino's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurinokaitou&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurinokaitou&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=synthwave" /> </div>
 
 - 🔭 I’m currently working on game engine development!
 - 🌱 I’m currently learning Vulkan.
